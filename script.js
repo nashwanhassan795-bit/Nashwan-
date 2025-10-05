@@ -1,5 +1,5 @@
 // تعيين تاريخ ووقت المباراة القادمة
-var matchDate = new Date("OCT 5, 2025 17:15:00").getTime();
+var matchDate = new Date("OCT 18, 2025 17:15:00").getTime();
 
 var x = setInterval(function() {
   var now = new Date().getTime();
